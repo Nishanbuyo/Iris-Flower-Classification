@@ -1,0 +1,2 @@
+# Iris-Flower-Classification
+This repository contains project on classification of Iris Flower Datasets downloaded from UCI machine Learning Repository.Basically Iris flower has three famlies namely, iris-setosa, iris-virginica, and iris-versicolor. At the end of this project, we will be able to recognize the family of the flower by just entering its sepal and petal length and width in model_usage
